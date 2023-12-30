@@ -68,7 +68,7 @@
 
  #### Employee Dashboard
  <p align="center">
-  <img src="https://github.com/AKSRathor/PortfolioBackend/assets/86844932/26ff22b6-c82e-4338-aa39-595928e7c142">
+ 
 </p>   
  
    
