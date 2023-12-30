@@ -59,7 +59,7 @@
   - Login as `User`
   - Login as `Employee`
 <p align="center">
- <img src="https://d112y698adiu2z.cloudfront.net/photos/production/challenge_photos/002/618/243/datas/full_width.png">
+
 </p>
 <br>
  - Upon First Signup `Metamask` will ask permission to connect your wallet with App.
@@ -68,7 +68,7 @@
 
  #### Employee Dashboard
  <p align="center">
- 
+ <img src="https://github.com/AKSRathor/PortfolioBackend/assets/86844932/26ff22b6-c82e-4338-aa39-595928e7c142">
 </p>   
  
    
