@@ -1,0 +1,48 @@
+.certiListBox{
+    border: 1px solid white;
+    padding: 1% 3%;
+    font-size: 5em;
+    border-radius: 10px;
+    cursor: pointer;
+    color: #FFECB5;
+    /* padding: ; */
+}
+.certiListType2 {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    column-gap: 200px;
+    row-gap: 50px;
+    width: 80%;
+    padding-top: 2%;
+    flex-wrap: wrap;
+}
+
+.react-contextmenu{
+    background-color: white;
+    color: #111;
+    padding: 0.6%;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 13%;
+}
+.react-contextmenu-item{
+    padding:1.5%;
+    
+}
+.react-contextmenu-item:hover{
+    background-color: wheat;
+    border-radius: 8px;
+    
+}
+
+.certiListBox{
+    color: white;
+    text-align: center;
+    
+}
+
+.certiListLabel{
+    font-size: 0.2em;
+
+}

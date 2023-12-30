@@ -1,0 +1,37 @@
+.notificationSection {
+    height: 114vh;
+    overflow-y: auto;
+    width: 88%;
+    background-color: #111;
+    margin: auto;
+}
+
+.notificationHead{
+    color: white;
+    text-align: center;
+    padding-top: 2%;
+    width: 100%;
+
+}
+.noti{
+    background-color: #fbfbfb;
+    border-radius: 5px;
+    padding: 1%;
+    margin: 2%;
+}
+.moreBtn{
+    /* padding: 1%; */
+    border-radius: 5px;
+    border: none;
+    background-color: #111;
+    cursor: pointer;
+    color: white;
+    padding: 0.5% 1%;
+}
+.moreBtnDiv{
+    text-align: right;
+    padding-right:2% ;
+}
+.moreDivInsideBtn{
+    transition: all ease-out 0.2s;
+}

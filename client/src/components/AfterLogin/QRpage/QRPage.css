@@ -1,0 +1,77 @@
+.css-6e7lq1-JoyAspectRatio-content{
+    height: 220px;
+    width: 220px;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+}
+
+.css-1mmbuw1-JoyCard-root {
+    margin: 0px auto;
+    height: 50vh;
+    margin-top: 5%;
+}
+
+.allCardSectionOfQR{
+    width: 80%;
+    height: 100vh;
+    
+}
+
+.QRTopo{
+    text-align: center;
+}
+
+.headSectionOfQR{
+    text-align: center;
+}
+.css-1wnsr1i{
+    width: 80% !important;
+}
+.tableBodySectionAll{
+    display: flex;
+}
+.photoSectionPartQR img{
+    width: 100%;
+    height: 80%;
+    margin: 2%;
+    border-radius: 600px;
+}
+.photoSectionPartQR{
+    width: 20%;
+}
+.tableBodyQR{
+    width: 80%;
+}
+
+.css-6e7lq1-JoyAspectRatio-content{
+    height: 280px !important;
+    width: 280px !important;
+}
+
+.MuiAspectRatio-content{
+    margin: 3% auto;
+}
+
+.css-6e7lq1-JoyAspectRatio-content{
+    border-radius: 35px !important;
+}
+.myQRTable{
+    display: flex;
+}
+.qrModal{
+    overflow-y: auto;
+}
+.modalQR{
+    display: flex;
+    position: fixed;
+    z-index: 12;
+    width: 100%;
+    height: 100vh;
+}
+
+.PrintBtnQR{
+    display: flex;
+    justify-content: center;
+    margin: 2%;
+}
