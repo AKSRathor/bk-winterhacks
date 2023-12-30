@@ -15,7 +15,7 @@
  </div>
 
 ## YOUTUBE EXPLANATION
-- <a href="https://www.youtube.com/watch?v=ggO4zbly2oA">LINK</a>
+- <a href="https://youtu.be/V901Tgo7y6I?feature=shared">LINK</a>
 
 ## Problem Statement -
  - Designing a blockchain-driven electronic vault for storing legal records.
